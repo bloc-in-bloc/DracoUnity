@@ -1,6 +1,6 @@
 {
   "name": "com.atteneder.draco",
-  "version": "2.0.0-preview",
+  "version": "2.0.1-preview",
   "displayName": "Draco 3D Data Compression",
   "description": "Apply Draco compression to meshes and load them at runtime.",
   "unity": "2019.3",
